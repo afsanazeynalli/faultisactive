@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this starter pack, please cite it as below."
+title: "Dynamic Fault Reactivation Risk Mapping Research Starter Pack"
+abstract: "Research starter code for uncertainty-aware Coulomb threshold screening during fluid injection."
+type: software
+authors:
+  - name: "Research Starter Pack Contributors"
+version: 0.1.0
+date-released: 2026-11-17
+license: MIT
