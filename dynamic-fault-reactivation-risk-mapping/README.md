@@ -5,7 +5,7 @@ A compact research starter pack for uncertainty-aware screening of fault-segment
 > **Scope:** this repository contains a reproducible screening prototype, not a coupled reservoir simulator or operational decision system. It computes a Coulomb-style failure function from supplied stress and pressure histories, propagates parameter uncertainty with Monte Carlo sampling, and reports the fraction of samples at or above the selected mechanical threshold. This fraction is not an earthquake, slip, leakage, or rupture probability.
 
 ## Research question
-Does sequentially updating an uncertainty ensemble with new pressure and operational observations improve held-out prediction and injection-scenario ranking versus static and non-updated baselines? This is a hypothesis to test, not an established research gap or claim of superiority. The novelty claim requires a systematic literature and patent review.
+Does sequentially updating an uncertainty ensemble with new pressure and operational observations improve held-out prediction and injection scenario ranking versus static and non-updated baselines? This is a hypothesis to test, and the novelty claim requires a systematic literature or patent review.
 
 ## Quick start
 
